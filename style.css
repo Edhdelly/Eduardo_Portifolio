@@ -16,7 +16,7 @@ nav {
     display: flex;
     justify-content: end;
     align-items: center;
-    border-bottom: 2px solid grey;
+    border-bottom: 10px solid rgb(157, 20, 20);
 
 }
 
@@ -35,11 +35,12 @@ nav {
 
 section {
     height: 545px;
-    margin-left: 7%;
+    padding-left: 7%;
+    background-color: #394E98;
 }
 
 .corpo {
-    margin-top: 10%;
+    padding-top: 9%;
     font-size: 30px;
     /* border: 1px solid blue;*/
 }
@@ -62,8 +63,11 @@ section {
 
 .corpo button:hover {
     background-color: #e394a7;
+    border: 1px solid #2f3559;
 }
 
-.corpo button a:hover {
-    color: #2f3559;
+img {
+    float: right;
+    margin-right: 15%;
+    margin-top: -200px;
 }
