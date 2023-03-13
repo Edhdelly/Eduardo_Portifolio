@@ -62,11 +62,21 @@ section {
     background-color: #9a5071;
 }
 
-
-
-
 img {
     float: right;
     margin-right: 15%;
     margin-top: -200px;
+}
+
+.corpo_2 {
+    height: 640px;
+    background-color: black;
+}
+
+.corpo_2 h1 {
+    color: white;
+}
+
+.corpo_2 p {
+    color: white;
 }
