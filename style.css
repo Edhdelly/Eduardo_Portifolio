@@ -74,9 +74,16 @@ img {
 }
 
 .corpo_2 h1 {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
     color: white;
+    font-size: 35px;
 }
 
 .corpo_2 p {
+    margin-top: 3%;
+    margin: 5%;
+    font-size: 20px;
     color: white;
 }
